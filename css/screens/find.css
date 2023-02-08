@@ -122,6 +122,5 @@
 
 .open-post__heart-count:hover i {
   will-change: transform;
-  /*엘리먼트에 무엇이 바뀔 것인지 미리 알려주는 함수. 그래픽카드로 애니메이션 가속*/
   animation: HeartBeat 1s linear infinite;
 }

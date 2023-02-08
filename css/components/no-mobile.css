@@ -37,7 +37,7 @@
   }
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:100vh) {
   .no-mobile {
     display: none;
   }

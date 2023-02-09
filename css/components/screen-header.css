@@ -7,13 +7,13 @@
 }
 
 .screen-header__title {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 600;
 }
 
 .screen-header__icons span {
   position: relative;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
 .screen-header__notification {

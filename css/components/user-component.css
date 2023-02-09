@@ -6,9 +6,7 @@
 .user-component__friend:hover {
   border-radius: 15px;
   background-color: rgba(0, 0, 0, 0.1);
-  border: 1px solid var(--silver);
-  border-bottom-width: 5px;
-  border-right-width: 5px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
 }
 
 .user-component,

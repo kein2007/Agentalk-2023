@@ -1,3 +1,4 @@
+
 .welcome-header {
   margin: 90px 0px 45px 0px;
   text-align: center;
@@ -61,9 +62,16 @@
   color: var(--yellow);
 }
 
+#login-form input[type="submit"]:active {
+  opacity: 0.7;
+}
+
+
 #login-form a {
   text-align: center;
   text-decoration: none;
   color: inherit;
   font-size: 13px;
 }
+
+
